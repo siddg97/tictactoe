@@ -1,5 +1,5 @@
 # tictactoe
-Unbeatable tic tac toe python CLI game
+Unbeatable tic tac toe python CLI game using reinforcement machine learning
 
 ## Setup:
 1. Clone this repository to your system.
